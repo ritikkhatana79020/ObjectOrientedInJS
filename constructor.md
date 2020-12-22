@@ -1,4 +1,4 @@
-#Object Oriented in JavaScript 
+
 ##Constructor
 *The constructor method is a special method of a class for creating and intializing an object of that class.*
 ```
