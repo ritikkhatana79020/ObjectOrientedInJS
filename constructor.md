@@ -1,6 +1,6 @@
 
-##Constructor
-*The constructor method is a special method of a class for creating and intializing an object of that class.*
+# Constructor:
+ -*The constructor method is a special method of a class for creating and intializing an object of that class.*
 ```
 class Polygon{
     constructor(){
